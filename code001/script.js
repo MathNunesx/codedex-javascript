@@ -1,0 +1,15 @@
+// RECEIPT
+
+console.log("=============================================")
+console.log(             "McDonalds Receipt    ")
+console.log("---------------------------------------------")
+console.log(               "Order Details")
+console.log("---------------------------------------------")
+console.log("Item               Quantity             price ")
+console.log("---------------------------------------------")
+console.log("Burguer                1                2.99" )
+console.log("Fries                  1                2.99" )
+console.log("Soda                   1                2.99" )
+console.log("---------------------------------------------")
+console.log("Total                                   7.47" )
+console.log("=============================================")
